@@ -1,3 +1,3 @@
 ## Sample 1192: critical connections
 
-create dictionary for all nodes like [nodes : neighbor nodes]
+create dictionary for all nodes like [node : neighbor nodes]
