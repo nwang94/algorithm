@@ -1,4 +1,4 @@
-## Sample 1192: critical connections
+## leetcode 1192: critical connections
 
 1. create dictionary for all nodes like dict[node : neighbor nodes]
 2. DFS traverse all nodes, for each node, give it a current level
