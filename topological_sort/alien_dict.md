@@ -6,6 +6,9 @@ leetcode 269
   - **Tarjan's** algorithm to detect cycle
  - maintain an visited array
  
+ **note**:
+ 1. only call topological dfs on the unvisited element.
+ 
 *Reference*<br/>
 https://www.youtube.com/watch?v=eL-KzMXSXXI&t=36s<br/>
 https://www.youtube.com/watch?v=RPpnRavqb8g&t=407s
